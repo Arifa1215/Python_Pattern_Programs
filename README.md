@@ -14,3 +14,10 @@ All type of Star Patterns
     * *
   * * *
 * * * *
+
+#Solid Rectangle
+
+* * * * *
+* * * * *
+* * * * *
+* * * * *
